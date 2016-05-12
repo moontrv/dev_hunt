@@ -1,4 +1,4 @@
-# DUCK HUNT JS v3.0
+# DUCK SHOOT
 
 [Play the game](http://duckhuntjs.com)
 
