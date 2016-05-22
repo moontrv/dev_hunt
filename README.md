@@ -1,4 +1,5 @@
 # DUCK SHOOT
+#A cloned project 
 
 [Play the game](http://duckhuntjs.com)
 
